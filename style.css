@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+    padding: 2% 5%;
+}
+
+h1{font-family: 'Pushster', cursive;
+    color: rgb(41, 189, 194);
+}
+h2{font-family: 'The Nautigal', cursive;
+color: rgb(219, 151, 23);
+font-size: 30px;
+
+}
+
+p{font-family: 'Vujahday Script', cursive;
+color: rgb(236, 222, 29);
+
+}
+.color{color: rgb(33, 177, 129);}
+
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(224, 122, 49), rgb(182, 182, 10));
+    padding: 5px 15px;
+    font-size: 15px;
+    border-radius: 5%;
+}
+.top-banner{
+    background-image: url(images/exp-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
